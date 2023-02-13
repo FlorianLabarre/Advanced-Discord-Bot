@@ -3,7 +3,7 @@
 In the first workshop we learned how to create a basic bot. Now we will make it interract with other users and messages.
 
 ## Requirements
-This workshop assume that you already have a [basic discord bot](https://github.com/ThomasLaboucheix78/Discord-Bot-Beginer#readme)
+This workshop assume that you already have a [basic discord bot](https://github.com/FlorianLabarre/Basic-Discord-Bot#readme)
 Since we will interract with server permission, we need to give them to our bot.
 
  1. Go to the [discord dev app](https://discord.com/developers/applications)
